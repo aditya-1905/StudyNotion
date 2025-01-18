@@ -6,3 +6,4 @@ dotenv
 package-log.json
 build
 build/*
+.git
